@@ -16,5 +16,5 @@
    * screenshots of manipulator performance characteristics (e.g. velocity, acceleration, and reaction force plots)
 5. Summary – 2–3 sentences identifying projects completed during your studies that could benefit from multibody dynamics simulations.
 
-<h2>Attach the \*.WM3 and \*.SLX simulation files to the <i>PDF</i> report. Send all files to the instructor at: jakub.bryla@agh.edu.pl</h2>
+<h2>Attach the \*.WM3 and \*.SLX simulation files to the message with <i>PDF</i> report. Send all files to the instructor at: jakub.bryla@agh.edu.pl</h2>
 
